@@ -2,6 +2,11 @@
 
 This Python script generates ChatGPT prompts based on user-defined topics or a random prompt if no topic is provided. It uses the OpenAI API to generate responses to prompts.
 
+[![Forks](https://img.shields.io/github/forks/hipnologo/chatgpt_prompt_generator)](https://github.com/hipnologo/chatgpt_prompt_generator/network/members)
+[![Stars](https://img.shields.io/github/stars/hipnologo/chatgpt_prompt_generator)](https://github.com/hipnologo/chatgpt_prompt_generator/stargazers)
+[![Issues](https://img.shields.io/github/issues/hipnologo/chatgpt_prompt_generator)](https://github.com/hipnologo/chatgpt_prompt_generator/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/hipnologo/chatgpt_prompt_generator)](https://github.com/hipnologo/chatgpt_prompt_generator/graphs/contributors)
+
 ## Installation
 
 1. Clone the repository to your local machine:
